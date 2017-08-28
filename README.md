@@ -115,7 +115,7 @@ You should choose the free account for our purposes. You will not need the addit
 
 Answer the basic questions after declining the paid account and navigate to your profile page. The top right corner has an icon to click and dropdown a menu to view your profile. 
 
-![Profile](/pictures/gitub_account.png)
+![Profile](/pictures/github_account.png)
 
 ## Step 7: Clone a Repository
 Cloning a repository means to make a copy of it and bring it onto your computer to use. 
