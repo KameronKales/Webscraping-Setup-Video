@@ -100,7 +100,43 @@ If you see a version number printed out, you can progress onto Step 6. If you do
 ``brew install git
 ``
 
+## Step 6: Register for a Github Account
+Registering for a github account is incredibly useful. For the purpose of this video series alone, it will make your life 100x easier. 
 
+Navigate to ![Github](http://github.com)
+
+Complete the sign up form shown below and confirm your email. 
+
+![Github](/pictures/github.png)
+
+Using Github enables you to store your code much like you store files with Google Drive. It also enables you to easily copy the code I write and run it in the same way I wrote it. 
+
+You should choose the free account for our purposes. You will not need the additional features of a paid account. 
+
+Answer the basic questions after declining the paid account and navigate to your profile page. The top right corner has an icon to click and dropdown a menu to view your profile. 
+
+![Profile](/pictures/gitub_account.png)
+
+## Step 7: Clone a Repository
+Cloning a repository means to make a copy of it and bring it onto your computer to use. 
+
+* Navigate to your terminal and type CD
+
+* Next, type mkdir Projects
+
+* Next, type CD Projects to switch into the projects folder. 
+
+* Now, we are going to clone the repository.
+
+* Click ![HERE](https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance) to open the repo.
+
+* Find the green clone or download button on the right. You can check below for a screenshot example.
+
+![Repo](/pictures/github_clone_repo.png)
+
+* Click the green button and copy the url in the clone with git box. You can check below for a screenshot example.
+
+![Git Clone](/pictures/github_clone_repo.png)
 
 * Once you've forked the repository, head over to the copy on your GitHub, located at *github.com/[YOUR ACCOUNT USERNAME]/Duke2016.* Press "Clone or Download" and copy the link given.
 
