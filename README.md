@@ -136,11 +136,10 @@ Cloning a repository means to make a copy of it and bring it onto your computer 
 
 * Click the green button and copy the url in the clone with git box. You can check below for a screenshot example.
 
-![Git Clone](/pictures/github_clone_repo.png)
+![Git Clone](/pictures/clone_with_git.png)
 
 * Once you've forked the repository, head over to the copy on your GitHub, located at *github.com/[YOUR ACCOUNT USERNAME]/Duke2016.* Press "Clone or Download" and copy the link given.
 
-![clone or download image on GitHub](https://cloud.githubusercontent.com/assets/4122993/20243221/d9c87800-a91c-11e6-83c7-15e498e88703.png)
 
 * Run the following command in the terminal:
 ``
