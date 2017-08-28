@@ -180,55 +180,11 @@ Now that you have cloned the code above onto your computer (often referred to as
 ![Select Files](/pictures/open_repo.png)
 
 
+* Once your files open on Sublime you can navigate around. I suggest starting with the Readme to learn about the repository. 
+
+* The Readme should include steps to get started with the project under Getting Started and Installation. 
+
+* Happy Scraping!
 
 
 
-
-
-
-
-* Navigate into the cloned folder with ```cd Duke2016-by-Glance```
-
-* Run ``npm install`` in your current folder.
-
-## Step 4
-* Go to https://developers.facebook.com/. Click "Products" in the upper navigation tab, then "Messenger Platform" which is listed under the "Growth and Engagement" tab.
-
-![messenger platform screenshot](https://cloud.githubusercontent.com/assets/4122993/20243246/b6169148-a91d-11e6-8be8-e6c40569ab36.png)
-
-* Then, press the "Start Building" button. You will be directed to a new page. In the top right, there's a dropdown menu called "My Apps." Hover or click and select "Add App" or "Create App" -- either works.
-
-![my apps hover button](https://cloud.githubusercontent.com/assets/4122993/20243256/026ac91a-a91e-11e6-919d-5077699f709d.png)
-
-* A popup will appear. Fill in your app's name and category, then select Create App ID.
-
-* You will be directed to a page called "Product Setup." Select "Messenger" from this list of products (note that "Messenger" and "Messenger Expression" are different -- select "Messenger"!)
-
-* On the "Messenger" page, scroll down to generate a token for your page.
-
-![token generation](https://cloud.githubusercontent.com/assets/4122993/20243276/30b3e378-a91f-11e6-9b1e-d30c96a1c425.png)
-
-* Finally, add this generated token to your ```facebook_bot.js``` file via your text editor.
-
-## Step 5
-* Back on the Product Setup page, add "Webhooks" to your app.
-
-* In the popup, leave "Callback URL" blank for now. Your "Verify Token" may be anything you like (don't use any password you've ever used). As for "Subscription Fields," select every "Messenger"-related option.
-
-* In your ```facebook_bot.js``` file, add the "Verify Token" you used to the "verify_token" field.
-
-## Step 6
-* Open a new terminal. In your new terminal window, enter the command
-```lt --port 5000```
-
-* Copy the resulting URL.
-
-* Enter the URL back on the Webhooks Callback URL. **NOTE** that you need to modify the URL in two places: First, add an "s" to the "http://" so that it reads "https://". Second, add "/facebook/receive" to the end of the URL.
-
-* Press "Verify and Save."
-
-## Step 7
-* Return to your original terminal. Enter the command ```node facebook_bot.js```
-
-## Step 8
-* You're done! Go to the Facebook page you set up and send it the message, "Hello"!
