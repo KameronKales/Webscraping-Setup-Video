@@ -54,17 +54,17 @@ You can tell which version of python you have by the top line. I have python 2.7
 
 * Run the following code in your terminal. Run each snippet by itself. Do not copy and paste all 4 into your terminal and hit enter. Copy and paste each one individually and hit enter to run it.
 
-```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+``ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+``
 
-```brew doctor
-```
+``brew doctor
+``
 
-```brew update
-```
+``brew update
+``
 
-```brew install python
-```
+``brew install python
+``
 
 ## Step 4: Install Text Editor (Sublime)
 Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
@@ -84,21 +84,21 @@ It is possible while doing this step you will see errors. If that happens please
 
 * If you run into this error, please run this line of code instead 
 
-```sudo easy_install pip
-```
+``sudo easy_install pip
+``
 
 ## Step 5: Install GIT
 Is is possible GIT is already installed on your computer. We will check prior to reinstalling. 
 
 Run this code in your command prompt to check if you have GIT
 
-```git --version
-```
+`git --version
+``
 
 If you see a version number printed out, you can progress onto Step 6. If you do not, continue below.
 
-```brew install git
-```
+`brew install git
+``
 
 
 
@@ -107,13 +107,13 @@ If you see a version number printed out, you can progress onto Step 6. If you do
 ![clone or download image on GitHub](https://cloud.githubusercontent.com/assets/4122993/20243221/d9c87800-a91c-11e6-83c7-15e498e88703.png)
 
 * Run the following command in the terminal:
-```
+``
 git clone *YOUR LINK*
-```
+``
 
 * Navigate into the cloned folder with ```cd Duke2016-by-Glance```
 
-* Run ```npm install``` in your current folder.
+* Run ``npm install`` in your current folder.
 
 ## Step 4
 * Go to https://developers.facebook.com/. Click "Products" in the upper navigation tab, then "Messenger Platform" which is listed under the "Growth and Engagement" tab.
