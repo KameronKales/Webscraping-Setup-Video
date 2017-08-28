@@ -22,7 +22,7 @@ The following instructions will only work for Mac.
 ## Step 1: Learn to use Command Prompt/Terminal
 The command prompt/terminal is the best way to get your computer to do what you want. On Mac, it is called terminal. On Windows, it is called Command Prompt. They are the same thing. 
 
-* Find Terminal-
+Find Terminal-
 
 Navigate to your Applications tab and search for "Terminal" . Open Terminal. Don't lose this tab. You will love the terminal once you learn how to use it.
 
@@ -79,8 +79,8 @@ It is possible while doing this step you will see errors. If that happens please
 
 * Type the following command in your command prompt.
 
-```easy_install pip
-```
+``easy_install pip
+``
 
 * If you run into this error, please run this line of code instead 
 
