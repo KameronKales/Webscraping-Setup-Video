@@ -7,7 +7,8 @@ In this tutorial you are going to learn how to set up your computer for python w
 Some of this will not make sense to start. Just trust me :) 
 
 1. Learn to use Terminal/Command Prompt
-2. Install Python 2.7
+2. Install XCode
+3. Install Python 2.7
 2. Install Text Editor (Sublime)
 3. Install PIP
 4. Install GIT
@@ -21,25 +22,85 @@ The following instructions will only work for Mac.
 ## Step 1: Learn to use Command Prompt/Terminal
 The command prompt/terminal is the best way to get your computer to do what you want. On Mac, it is called terminal. On Windows, it is called Command Prompt. They are the same thing. 
 
-*Find Terminal: Navigate to your Applications tab and search for "Terminal" . Open Terminal. Don't lose this tab. You will love the terminal once you learn how to use it.*
+* Find Terminal-
 
-* Install NodeJS: https://nodejs.org/en/download/
+Navigate to your Applications tab and search for "Terminal" . Open Terminal. Don't lose this tab. You will love the terminal once you learn how to use it.
 
-* Install NPM (Should come with NodeJS, so don't worry too much about this step.)
+If you are feeling adventurous I would strongly recommend installing iterm2. It will replace your terminal and adds a lot of great features like copy and paste among others. Here is the link to install. 
 
-* Install a text editor (Sublime, vim, emacs -- anything works)
+Download [HERE](https://www.iterm2.com/)
 
-* Install LocalTunnel (https://localtunnel.github.io/www/). Don't run the command to start LocalTunnel, yet!
+## Step 2: Install XCode from App Store
+This is mandatory. There is no way to progress without completing this step. It is also possible you will need to update your OS with Apple prior to completing this step. If so, plug your laptop in and go to sleep. That will take awhile.
 
-## Step 2:
-* Create the Facebook page you would like to have your bot live on. 
-The "create page" option is on the left-hand side of your news feed.
+* Navigate to App Store on your Mac
 
-![Creating a FB Page](https://cloud.githubusercontent.com/assets/4122993/20243189/29a01c5e-a91b-11e6-9aad-a047b12a5992.png)
+* Search XCode
 
-## Step 3:
-* Head over to https://github.com/KameronKales/Duke2016, click "Star" & then click "Fork" on the upper right-hand side of the page. This makes your own copy of the repository, so that you have write access. Otherwise, you would have to request permission to add your changes to GitHub. 
-If you don't have a GitHub account and don't want to make one, skip the above step.
+* Install.
+
+## Step 3: Install Python 2.7
+Python might already be installed on your machine. To check this we are going to use the terminal. So, hopefully you still know where it is :)
+
+* Navigate to Terminal
+
+* Type python into the terminal. You should get a result like this. 
+
+![Python Interpreter](/pictures/check_python_version_on_mac.png)
+
+You can tell which version of python you have by the top line. I have python 2.7.10. As long as you have 2.7 something everything will work :)
+
+* If your terminal does not respond in this way, it most likely means you do not have python installed. Let's fix that.
+
+* Run the following code in your terminal. Run each snippet by itself. Do not copy and paste all 4 into your terminal and hit enter. Copy and paste each one individually and hit enter to run it.
+
+```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+```brew doctor
+```
+
+```brew update
+```
+
+```brew install python
+```
+
+## Step 4: Install Text Editor (Sublime)
+Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
+
+![Sublime](/pictures/os_x_sublime.png)
+
+* Navigate to your downloads and double click the Sublime Text Build 31....dmg file to open and install it. After it installs, I recommend moving the download to your Applications folder. 
+
+
+## Step 4: Install PIP
+It is possible while doing this step you will see errors. If that happens please add sudo to the front of the command below.
+
+* Type the following command in your command prompt.
+
+```easy_install pip
+```
+
+* If you run into this error, please run this line of code instead 
+
+```sudo easy_install pip
+```
+
+## Step 5: Install GIT
+Is is possible GIT is already installed on your computer. We will check prior to reinstalling. 
+
+Run this code in your command prompt to check if you have GIT
+
+```git --version
+```
+
+If you see a version number printed out, you can progress onto Step 6. If you do not, continue below.
+
+```brew install git
+```
+
+
 
 * Once you've forked the repository, head over to the copy on your GitHub, located at *github.com/[YOUR ACCOUNT USERNAME]/Duke2016.* Press "Clone or Download" and copy the link given.
 
