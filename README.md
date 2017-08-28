@@ -92,12 +92,12 @@ Is is possible GIT is already installed on your computer. We will check prior to
 
 Run this code in your command prompt to check if you have GIT
 
-`git --version
+``git --version
 ``
 
 If you see a version number printed out, you can progress onto Step 6. If you do not, continue below.
 
-`brew install git
+``brew install git
 ``
 
 
