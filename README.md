@@ -120,11 +120,18 @@ Answer the basic questions after declining the paid account and navigate to your
 ## Step 7: Clone a Repository
 Cloning a repository means to make a copy of it and bring it onto your computer to use. 
 
-* Navigate to your terminal and type CD
+* Navigate to your command prompt and type 
+``CD``
 
-* Next, type mkdir Projects
+* Next, type 
+``CD Desktop`` 
 
-* Next, type CD Projects to switch into the projects folder. 
+* Next, type 
+``mkdir Projects``
+
+* Next, type 
+``CD Projects`` 
+to switch into the projects folder. 
 
 * Now, we are going to clone the repository.
 
@@ -138,13 +145,47 @@ Cloning a repository means to make a copy of it and bring it onto your computer 
 
 ![Git Clone](/pictures/clone_with_git.png)
 
-* Once you've forked the repository, head over to the copy on your GitHub, located at *github.com/[YOUR ACCOUNT USERNAME]/Duke2016.* Press "Clone or Download" and copy the link given.
+* Navigate to your command prompt again and type 
+
+``git clone https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance.git ``
+
+* Now, type the following
+
+``CD Sourcers-Who-Code-Scraping-Tutorial-by-Glance/``
+
+* Congratulations! You now have the full repository of code on your computer!! I'd suggest you have a drink or a nap, whatever is your cup of tea because that was the bulk of the hard part. 
+
+## Step 8: Navigate to Repo and Run Scraper
+Now that you have cloned the code above onto your computer (often referred to as a machine) you can run the web scraper!
+
+* Navigate to your command prompt once again.
+
+* Confirm you are inside the Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ folder. If you are not do the following:
+
+``CD``
+``CD Desktop``
+``CD Projects``
+``CD Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ ``
+
+* Now that you are inside the directory we need to open your code. 
+
+* Navigate to your Applications folder and select Sublime. Double click it to open. 
+
+* Click the menu bar at the top where it says File (much like Microsoft Word) and scroll down to the Open option. Click that.
+
+* Navigate to Desktop on the pop up and then into Projects.
+
+* Select Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ like shown below and click Open. Ensure your cursor is like the example below and all of the files open. 
+
+![Select Files](/pictures/open_repo.png)
 
 
-* Run the following command in the terminal:
-``
-git clone *YOUR LINK*
-``
+
+
+
+
+
+
 
 * Navigate into the cloned folder with ```cd Duke2016-by-Glance```
 
