@@ -2,6 +2,8 @@
 
 In this tutorial you are going to learn how to set up your computer for python webscraping. We will cover all 3 major operating systems. If you run into any problems you can reach me at kam@glance.ai or my preferred way of communication via Facebook Messenger at http://m.me/kameron.kales
 
+## Watch this Tutorial on ![YouTube](https://youtu.be/lGLEJosLKjQ)
+
 ## Table of Contents.
 
 Some of this will not make sense to start. Just trust me :) 
