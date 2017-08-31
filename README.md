@@ -270,7 +270,6 @@ If you see a version number printed out, you can progress onto Step 5. If you do
 * Thanks to [Glenn Gutmatcher](https://www.linkedin.com/in/gutmach/) for pointing out a few possible errors while completing this step! 
 
 * After Git installs, if you get an error when Gitbash first tries to self-launch of:
-
 Bash: fork: Resource temporarily unavailable
 
 Just close that window, and back in regular Windows command prompt window, type: 
