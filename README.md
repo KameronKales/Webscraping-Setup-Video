@@ -198,10 +198,8 @@ The following instructions will only work for Windows 10 Operating System.
 Some of this will not make sense to start. Just trust me :) 
 
 1. Learn to use Terminal/Command Prompt
-2. Install XCode
-3. Install Python 2.7
-2. Install Text Editor (Sublime)
-3. Install PIP
+2. Install Python 2.7
+3. Install Text Editor (Sublime)
 4. Install GIT
 5. Register for a GitHub Account
 6. Clone a repository
@@ -228,9 +226,23 @@ You can tell which version of python you have by the top line. I have python 2.7
 
 * If your terminal does not respond in this way, it most likely means you do not have python installed. Let's fix that.
 
-* Navigate to this website ![Install Python](https://www.python.org/downloads/release/python-2713/)
+* Navigate to this website ![Install Python](https://www.python.org/downloads/release/python-2713//)
 
-* Click the download 
+* Click the download Windows x86-64 MSI installer option. View the attached screenshot to confirm you are installing the right software.
+
+![Download Python](/pictures/windows/Download_python.png)
+
+* Select the following permissions shown in the screenshot below!
+
+![Permissions For Python](/pictures/windows/Python_permissions.png)
+
+* Ensure you select the options shown in the screenshot below!!!!! 
+
+![Options for Python](pictures/windows/Python_loader.png)
+
+* Congrats! You have now installed Python. Next, you should close out your Command Prompt and Re-open it. This is not entirely neccessary but in my experience restarting it after installing is best.
+
+* You might notice the Mac guide above has a different Step 4 where we install pip. Luckily for you, Pip auto-installs with Python. 
 
 ## Step 4: Install Text Editor (Sublime)
 Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
