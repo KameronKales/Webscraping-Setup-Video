@@ -48,7 +48,7 @@ Python might already be installed on your machine. To check this we are going to
 
 * Type python into the terminal. You should get a result like this. 
 
-![Python Interpreter](/pictures/check_python_version_on_mac.png)
+![Python Interpreter](/pictures/mac/check_python_version_on_mac.png)
 
 You can tell which version of python you have by the top line. I have python 2.7.10. As long as you have 2.7 something everything will work :)
 
@@ -71,7 +71,7 @@ You can tell which version of python you have by the top line. I have python 2.7
 ## Step 4: Install Text Editor (Sublime)
 Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
 
-![Sublime](/pictures/os_x_sublime.png)
+![Sublime](/pictures/mac/os_x_sublime.png)
 
 * Navigate to your downloads and double click the Sublime Text Build 31....dmg file to open and install it. After it installs, I recommend moving the download to your Applications folder. 
 
@@ -179,7 +179,7 @@ Now that you have cloned the code above onto your computer (often referred to as
 
 * Select Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ like shown below and click Open. Ensure your cursor is like the example below and all of the files open. 
 
-![Select Files](/pictures/open_repo.png)
+![Select Files](/pictures/mac/open_repo.png)
 
 
 * Once your files open on Sublime you can navigate around. I suggest starting with the Readme to learn about the repository. 
@@ -189,4 +189,5 @@ Now that you have cloned the code above onto your computer (often referred to as
 * Happy Scraping!
 
 
-
+### Windows OS:
+The following instructions will only work for Windows 10 Operating System. 
