@@ -31,7 +31,7 @@ Navigate to your Applications tab and search for "Terminal" . Open Terminal. Don
 
 If you are feeling adventurous I would strongly recommend installing iterm2. It will replace your terminal and adds a lot of great features like copy and paste among others. Here is the link to install. 
 
-Download [HERE](https://www.iterm2.com/)
+Download [HERE](http://www.iterm2.com/)
 
 ## Step 2: Install XCode from App Store
 This is mandatory. There is no way to progress without completing this step. It is also possible you will need to update your OS with Apple prior to completing this step. If so, plug your laptop in and go to sleep. That will take awhile.
@@ -70,7 +70,7 @@ You can tell which version of python you have by the top line. I have python 2.7
 ``
 
 ## Step 4: Install Text Editor (Sublime)
-Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
+Navigate to ![Sublime](http://www.sublimetext.com/3) to download. Click the OS X Button shown below.
 
 ![Sublime](/pictures/mac/os_x_sublime.png)
 
