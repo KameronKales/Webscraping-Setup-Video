@@ -2,7 +2,7 @@
 
 In this tutorial you are going to learn how to set up your computer for python webscraping. We will cover all 3 major operating systems. If you run into any problems you can reach me at kam@glance.ai or my preferred way of communication via Facebook Messenger at http://m.me/kameron.kales
 
-## Watch this Tutorial on ![YouTube](go.glance.ai/Webscraping_Tutorial_For_Mac)
+## Watch this Tutorial on [YouTube](go.glance.ai/Webscraping_Tutorial_For_Mac)
 
 ### Mac OS:
 The following instructions will only work for Mac. 
@@ -70,7 +70,7 @@ You can tell which version of python you have by the top line. I have python 2.7
 ``
 
 ## Step 4: Install Text Editor (Sublime)
-Navigate to ![Sublime](http://www.sublimetext.com/3) to download. Click the OS X Button shown below.
+Navigate to [Sublime](http://www.sublimetext.com/3) to download. Click the OS X Button shown below.
 
 ![Sublime](/pictures/mac/os_x_sublime.png)
 
@@ -106,7 +106,7 @@ If you see a version number printed out, you can progress onto Step 6. If you do
 ## Step 6: Register for a Github Account
 Registering for a github account is incredibly useful. For the purpose of this video series alone, it will make your life 100x easier. 
 
-Navigate to ![Github](http://github.com)
+Navigate to [Github](http://github.com)
 
 Complete the sign up form shown below and confirm your email. 
 
@@ -138,7 +138,7 @@ to switch into the projects folder.
 
 * Now, we are going to clone the repository.
 
-* Click ![HERE](https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance) to open the repo.
+* Click [HERE](https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance) to open the repo.
 
 * Find the green clone or download button on the right. You can check below for a screenshot example.
 
@@ -226,7 +226,7 @@ You can tell which version of python you have by the top line. I have python 2.7
 
 * If your terminal does not respond in this way, it most likely means you do not have python installed. Let's fix that.
 
-* Navigate to this website ![Install Python](https://www.python.org/downloads/release/python-2713//)
+* Navigate to this website [Install Python](https://www.python.org/downloads/release/python-2713//)
 
 * Click the download Windows x86-64 MSI installer option. View the attached screenshot to confirm you are installing the right software.
 
@@ -245,7 +245,8 @@ You can tell which version of python you have by the top line. I have python 2.7
 * You might notice the Mac guide above has a different Step 4 where we install pip. Luckily for you, Pip auto-installs with Python. 
 
 ## Step 4: Install Text Editor (Sublime)
-Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the Windows 64 bit Option shown below.
+
+* Navigate to [Sublime](https://www.sublimetext.com/3) to download. Click the Windows 64 bit Option shown below.
 
 ![Sublime](/pictures/windows/Windows_download_sublime.png)
 
@@ -262,7 +263,7 @@ Run this code in your command prompt to check if you have GIT
 
 If you see a version number printed out, you can progress onto Step 5. If you do not, continue below.
 
-* Navigate your browser to ![GIT](https://git-scm.com/download/win)
+* Navigate your browser to [GIT](https://git-scm.com/download/win)
 
 * Your download should automatically start. Once it is complete double click and click through all of the menus. The stock options will be all you need.
 
@@ -271,7 +272,7 @@ If you see a version number printed out, you can progress onto Step 5. If you do
 ## Step 5: Register for a Github Account
 Registering for a github account is incredibly useful. For the purpose of this video series alone, it will make your life 100x easier. 
 
-Navigate to ![Github](http://github.com)
+Navigate to [Github](http://github.com)
 
 Complete the sign up form shown below and confirm your email. 
 
@@ -303,7 +304,7 @@ to switch into the projects folder.
 
 * Now, we are going to clone the repository.
 
-* Click ![HERE](https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance) to open the repo.
+* Click [HERE](https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance) to open the repo.
 
 * Find the green clone or download button on the right. You can check below for a screenshot example.
 
