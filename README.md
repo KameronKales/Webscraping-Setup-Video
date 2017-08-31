@@ -274,8 +274,9 @@ If you see a version number printed out, you can progress onto Step 5. If you do
 Bash: fork: Resource temporarily unavailable
 
 Just close that window, and back in regular Windows command prompt window, type: 
-```git --version
-```
+
+``git --version
+``
 
 And it should show that you have Git now. 
 
@@ -330,11 +331,11 @@ to switch into the projects folder.
 
 * Navigate to your command prompt again and type 
 
-** Note: You cannot simply ctrl+v to paste the URL (or anything) in a Windows command prompt! Instead, you’ll need to hit the Alt key and Space bar simultaneously, then E (edit), then P (paste)
+* Note: You cannot simply ctrl+v to paste the URL (or anything) in a Windows command prompt! Instead, you’ll need to hit the Alt key and Space bar simultaneously, then E (edit), then P (paste)
 
 ``git clone https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance.git ``
 
-** Bonus Points: if that was relatively easy for you, you might want to try one of the fancier solutions [HERE](https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/?fref=gc&dti=298375607242234)
+* Bonus Points: if that was relatively easy for you, you might want to try one of the fancier solutions [HERE](https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/?fref=gc&dti=298375607242234)
 
 * Now, type the following
 
