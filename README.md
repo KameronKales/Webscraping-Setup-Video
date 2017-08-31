@@ -245,27 +245,14 @@ You can tell which version of python you have by the top line. I have python 2.7
 * You might notice the Mac guide above has a different Step 4 where we install pip. Luckily for you, Pip auto-installs with Python. 
 
 ## Step 4: Install Text Editor (Sublime)
-Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the OS X Button shown below.
+Navigate to ![Sublime](https://www.sublimetext.com/3) to download. Click the Windows 64 bit Option shown below.
 
-![Sublime](/pictures/mac/os_x_sublime.png)
+![Sublime](/pictures/windows/Windows_download_sublime.png)
 
-* Navigate to your downloads and double click the Sublime Text Build 31....dmg file to open and install it. After it installs, I recommend moving the download to your Applications folder. 
+* Double click the download once it completes to fully install. You should now be able to search your desktop for SublimeText3.
 
 
-## Step 4: Install PIP
-It is possible while doing this step you will see errors. If that happens please add sudo to the front of the command below.
-
-* Type the following command in your command prompt.
-
-``easy_install pip
-``
-
-* If you run into this error, please run this line of code instead 
-
-``sudo easy_install pip
-``
-
-## Step 5: Install GIT
+## Step 4: Install GIT
 Is is possible GIT is already installed on your computer. We will check prior to reinstalling. 
 
 Run this code in your command prompt to check if you have GIT
@@ -273,12 +260,15 @@ Run this code in your command prompt to check if you have GIT
 ``git --version
 ``
 
-If you see a version number printed out, you can progress onto Step 6. If you do not, continue below.
+If you see a version number printed out, you can progress onto Step 5. If you do not, continue below.
 
-``brew install git
-``
+* Navigate your browser to ![GIT](https://git-scm.com/download/win)
 
-## Step 6: Register for a Github Account
+* Your download should automatically start. Once it is complete double click and click through all of the menus. The stock options will be all you need.
+
+* Congrats you have installed GIT!
+
+## Step 5: Register for a Github Account
 Registering for a github account is incredibly useful. For the purpose of this video series alone, it will make your life 100x easier. 
 
 Navigate to ![Github](http://github.com)
@@ -347,7 +337,7 @@ Now that you have cloned the code above onto your computer (often referred to as
 
 * Now that you are inside the directory we need to open your code. 
 
-* Navigate to your Applications folder and select Sublime. Double click it to open. 
+* Navigate to your Desktop folder and search for SublimeText3. Open it. 
 
 * Click the menu bar at the top where it says File (much like Microsoft Word) and scroll down to the Open option. Click that.
 
@@ -356,7 +346,6 @@ Now that you have cloned the code above onto your computer (often referred to as
 * Select Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ like shown below and click Open. Ensure your cursor is like the example below and all of the files open. 
 
 ![Select Files](/pictures/mac/open_repo.png)
-
 
 * Once your files open on Sublime you can navigate around. I suggest starting with the Readme to learn about the repository. 
 
