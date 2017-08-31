@@ -267,6 +267,17 @@ If you see a version number printed out, you can progress onto Step 5. If you do
 
 * Your download should automatically start. Once it is complete double click and click through all of the menus. The stock options will be all you need.
 
+* Thanks to [Glenn Gutmatcher](https://www.linkedin.com/in/gutmach/) for pointing out a few possible errors while completing this step! 
+
+1) After Git installs, if you get an error when Gitbash first tries to self-launch of:
+Bash: fork: Resource temporarily unavailable
+
+Just close that window, and back in regular Windows command prompt window, type: 
+```git --version
+```
+
+And it should show that you have Git now. 
+
 * Congrats you have installed GIT!
 
 ## Step 5: Register for a Github Account
@@ -312,11 +323,17 @@ to switch into the projects folder.
 
 * Click the green button and copy the url in the clone with git box. You can check below for a screenshot example.
 
+** Note: When you are on Github and there’s a folder you want and you click the green Clone or Download button, then click the icon to the right of the URL path which copies it to clipboard (as shown in video).
+
 ![Git Clone](/pictures/clone_with_git.png)
 
 * Navigate to your command prompt again and type 
 
+** Note: You cannot simply ctrl+v to paste the URL (or anything) in a Windows command prompt! Instead, you’ll need to hit the Alt key and Space bar simultaneously, then E (edit), then P (paste)
+
 ``git clone https://github.com/KameronKales/Sourcers-Who-Code-Scraping-Tutorial-by-Glance.git ``
+
+** Bonus Points: if that was relatively easy for you, you might want to try one of the fancier solutions [HERE](https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/?fref=gc&dti=298375607242234)
 
 * Now, type the following
 
