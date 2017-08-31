@@ -345,7 +345,7 @@ Now that you have cloned the code above onto your computer (often referred to as
 
 * Select Sourcers-Who-Code-Scraping-Tutorial-by-Glance/ like shown below and click Open. Ensure your cursor is like the example below and all of the files open. 
 
-![Select Files](/pictures/mac/open_repo.png)
+![Select Files](/pictures/windows/Windows_select_repo.png)
 
 * Once your files open on Sublime you can navigate around. I suggest starting with the Readme to learn about the repository. 
 
